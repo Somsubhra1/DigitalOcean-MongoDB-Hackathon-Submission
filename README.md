@@ -38,4 +38,4 @@ This project is [MIT licensed](LICENSE).
 
 ## Blog
 
-Check out te blog post [here](https://dev.to/somsubhra1/digitalocean-mongodb-hackathon-memories-sharing-app-2kne)
+Check out the blog post [here](https://dev.to/somsubhra1/digitalocean-mongodb-hackathon-memories-sharing-app-2kne)
