@@ -4,7 +4,7 @@ A Simple Memories sharing app built on MERN Stack.
 
 ## Demo
 
-Click [here](https://memoriescherished.herokuapp.com/) for demo.
+Click [here](https://memoriescherished.somsubhra.co) for demo.
 
 ## Configuration
 
