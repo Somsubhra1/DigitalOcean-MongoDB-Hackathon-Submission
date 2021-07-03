@@ -35,3 +35,7 @@ $ npm run client
 ## License
 
 This project is [MIT licensed](LICENSE).
+
+## Blog
+
+Check out the blog related with this project [here](https://dev.to/somsubhra1/digitalocean-mongodb-hackathon-memories-sharing-app-2kne).
